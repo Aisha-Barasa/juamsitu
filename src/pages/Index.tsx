@@ -163,8 +163,8 @@ const Index = () => {
 
         {/* Footer Info */}
         <div className="mt-12 text-center text-sm text-muted-foreground">
-          <p>Data sourced from satellite imagery, weather stations, and ground sensors</p>
-          <p className="mt-1">Powered by Antugrow API & Lovable AI</p>
+          <p>Data sourced from satellite imagery, weather stations and ground sensors</p>
+          <p className="mt-1">Powered by Antugrow API</p>
         </div>
       </main>
     </div>
@@ -172,3 +172,4 @@ const Index = () => {
 };
 
 export default Index;
+
